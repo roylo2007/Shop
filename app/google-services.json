@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892807617665",
+    "firebase_url": "https://shop-f363e.firebaseio.com",
+    "project_id": "shop-f363e",
+    "storage_bucket": "shop-f363e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892807617665:android:0f74b4a7eaafcd8d",
+        "android_client_info": {
+          "package_name": "com.roy.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892807617665-mgkbggqmi61a478c71lu7lj2icutf06s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roy.shop",
+            "certificate_hash": "4ef77e0b03e004b34d674c06139d68ae0fbafb7f"
+          }
+        },
+        {
+          "client_id": "892807617665-dun26e9o1bha6jqovao41m9lhdrsrgcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfFspVFTY7oeipbekRdgotXK8vGC7snhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892807617665-dun26e9o1bha6jqovao41m9lhdrsrgcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
